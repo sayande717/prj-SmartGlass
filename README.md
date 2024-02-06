@@ -1,3 +1,3 @@
 ## This project is read-only. Please check these final versions:
-- [Report](./report.pdf)
-- [Poster](./poster.pdf)
+- [Report](./src/report.pdf)
+- [Poster](./src/poster.pdf)
